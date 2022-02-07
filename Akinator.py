@@ -33,5 +33,4 @@ elif ans == 'n':
         elif ans == 'n':
             print('это крокодил')
             
-
-
+=

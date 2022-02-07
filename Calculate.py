@@ -74,8 +74,4 @@ while q == "y":
                 print(result)
                 continue
     
-        
-
-
-
-#exec("a =" + input() + "\nprint(a)")
+       
