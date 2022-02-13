@@ -6,7 +6,7 @@ from datetime import datetime
 def complited(x):
     x -= 1
     y = manager["tasks"][x]
-    result = "|COMPLITED | {0}".format(y)
+    result = "|COMPLITED| {0}".format(y)
     manager["tasks"][x] = result
     print(manager["tasks"][x])
 
